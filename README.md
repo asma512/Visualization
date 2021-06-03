@@ -1,6 +1,6 @@
 # Visualization
 
-Final project
+Final project: Climate Change 
 
   website: https://climatechange.gabrielespinoza.repl.co/
   
